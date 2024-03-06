@@ -159,3 +159,12 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 data/ward_vdcmun_district_name_mapping.csv
+data/mapping.csv
+data/csv_building_damage_assessment.csv
+data/csv_building_ownership_and_use.csv
+data/csv_building_structure.csv
+data/csv_household_demographics.csv
+data/csv_household_earthquake_impact.csv
+data/csv_household_resources.csv
+data/csv_individual_demographics.csv
+data/csv_individual_social_security.csv
